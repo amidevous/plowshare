@@ -25,8 +25,6 @@ Concerning modules, few are available separately and must be installed in user d
 
 ## Install
 
-## Install
-
 
 See `INSTALL` file for details.
 
