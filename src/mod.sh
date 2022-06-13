@@ -21,7 +21,7 @@
 declare -r VERSION='GIT-snapshot'
 
 # Default repository source
-declare -r LEGACY_MODULES='https://github.com/mcrapet/plowshare-modules-legacy.git'
+declare -r LEGACY_MODULES='https://github.com/amidevous/plowshare-modules-legacy.git'
 
 declare -r ACTION_OPTIONS='
 DO_INSTALL,i,install,,Install one or several given repositories to modules directory
