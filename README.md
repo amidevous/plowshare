@@ -43,6 +43,14 @@ UBUNTU LTS
 
 `sudo make install PREFIX=/usr`
 
+install mod
+
+`plowmod --install`
+
+or
+
+`plowmod --update`
+
 Windows 7-10 with Cygwin 32 and 64 bit
 
 require install Cygwin wget package and apt-cyg script
@@ -58,6 +66,14 @@ open Cygwin Terminal in Admin Mode
 `cd plowshare`
 
 `make install PREFIX=/usr`
+
+install mod
+
+`plowmod --install`
+
+or
+
+`plowmod --update`
 
 ## Usage examples
 
