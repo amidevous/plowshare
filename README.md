@@ -29,6 +29,10 @@ Concerning modules, few are available separately and must be installed in user d
 
 
 See `INSTALL` file for details.
+
+exemple help 
+
+
 UBUNTU LTS
 
 `sudo apt-get update`
