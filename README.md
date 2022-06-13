@@ -25,7 +25,27 @@ Concerning modules, few are available separately and must be installed in user d
 
 ## Install
 
-See `INSTALL` file for details.
+UBUNTU LTS
+
+`sudo apt-get update`
+`sudo apt-get -y install curl git build-essential`
+`git clone https://github.com/amidevous/plowshare.git`
+`cd plowshare`
+`sudo make install PREFIX=/usr`
+
+Windows 7-10 with Cygwin 32 and 64 bit
+
+require install Cygwin wget package and apt-cyg script
+
+open Cygwin Terminal in Admin Mode
+
+`apt-cyg update`
+`apt-cyg install curl git make gcc-core cygwin-devel`
+`git clone https://github.com/amidevous/plowshare.git`
+`cd plowshare`
+`make install PREFIX=/usr`
+
+
 
 ## Usage examples
 
